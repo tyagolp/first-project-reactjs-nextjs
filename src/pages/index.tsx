@@ -20,7 +20,6 @@ export default function Home({ product }: HomeProps) {
       <Head>
         <title>ig.news</title>
       </Head>
-      <h1>Hello World</h1>
 
       <main className={styles.contentContainer}>
         <section className={styles.hero}>
